@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.moreunit.preferences.version=2
+org.moreunit.unitsourcefolder=org.example.gumball.tests\:src\:org.example.gumball\:src
+org.moreunit.useprojectsettings=true
